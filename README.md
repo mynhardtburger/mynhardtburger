@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mynhardtburger
-- 🌱 I’m currently learning everything I can to effeciently use data trying to find my niche.
-I started off with a datascience diploma introducing me to statistical methods and how those can be applied. Currently I'm learning the data ops side so that I can work with and build systems.
+- 🌱 I’m exploring how to effeciently use data. A datascience diploma introduced me to statistical methods and how those can be applied. Currently I'm interested in data ops and am learning how to work with and build larger systems.
 
 - 📫 How to reach me on [linkedin](https://www.linkedin.com/in/mynhardtb/)
 
