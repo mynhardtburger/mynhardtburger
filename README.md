@@ -1,8 +1,10 @@
 👋 Hi, I’m @mynhardtburger
 
-I’m exploring how to effectively use data. Recently I completed a diploma in data science which introduced me to various statistical and machine learning methods and how those can be applied using python and SQL based technologies. Currently I'm interested in data engineering and am learning how to build and maintain larger systems.
+I'm a software engineer and I love solving puzzles. Still in the early stages in my software career, but an experienced corporate worker. Coming from a CPA background together with a datascience diploma I know how to work effectively in teams and turn amorphous goals into actionable plans.
 
 📫 You can reach me via my [linkedin](https://www.linkedin.com/in/mynhardtb/) profile.
+
+PS. check out my recent project! [Should I Shovel?](https://shouldishovel.com)
 
 <!---
 mynhardtburger/mynhardtburger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
