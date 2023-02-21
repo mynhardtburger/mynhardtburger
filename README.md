@@ -1,4 +1,4 @@
-👋 Hi, I’m @mynhardtburger
+# About me
 
 I'm a software engineer and I love solving puzzles. Still in the early stages in my software career, but an experienced corporate worker. Coming from a CPA background together with a datascience diploma I know how to work effectively in teams and turn amorphous goals into actionable plans.
 
@@ -6,7 +6,6 @@ I'm a software engineer and I love solving puzzles. Still in the early stages in
 
 PS. check out my recent project! [Should I Shovel?](https://shouldishovel.com)
 
-<!---
-mynhardtburger/mynhardtburger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Open-source highlights
+* [python/typeshed#9764](https://github.com/python/typeshed/pull/9764): "Additional type hints added to stub openpyxl"
