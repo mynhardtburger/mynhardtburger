@@ -9,5 +9,3 @@ Check out my recent projects!
 
 # Open-source highlights
 * [python/typeshed#9764](https://github.com/python/typeshed/pull/9764): "Additional type hints added to stub openpyxl"
-
-📫 You can reach me via my [linkedin](https://www.linkedin.com/in/mynhardtb/) profile.
