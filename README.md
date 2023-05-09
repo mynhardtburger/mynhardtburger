@@ -1,6 +1,6 @@
 # About me
 
-I'm a software engineer that came from a career as a CPA. Currently I spend my working hours writing python to build backend data import functionality at CheckSec. My current learning focus is JS and the web dev process.
+I'm a software engineer that came from a career as a CPA. Currently I spend my working hours writing python to build backend data interfaces with security tools at CheckSec. In my free time I work on improving gaining experience with web techologies and building tools to solve common accounting problems.
 
 Check out my recent projects! 
 * [Next.js Blog](https://mynhardt.ca) - Simple blog built using Next.js and TypeScript.
