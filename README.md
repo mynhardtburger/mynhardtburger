@@ -3,7 +3,7 @@
 I'm a software engineer that came from a career as a CPA. Currently I spend my working hours writing python to build backend data import functionality at CheckSec. My current learning focus is JS and the web dev process.
 
 Check out my recent projects! 
-* [Next.js Blog](https://mynhardt.ca)
+* [Next.js Blog](https://mynhardt.ca) - Simple blog built using Next.js and TypeScript.
 * [Tic Tac Toe](https://github.com/mynhardtburger/ticktacktoe) - Exploring factory and module design patterns.
 * [Etch A Sketch](https://mynhardtburger.github.io/etch-a-sketch/) - A first attempt at CSS Grid layout.
 * [Rock Paper Scissors](https://mynhardtburger.github.io/rock-paper-scissors/) - Exploring basic DOM manipulation using JS.
